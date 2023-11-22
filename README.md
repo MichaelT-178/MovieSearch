@@ -8,11 +8,25 @@ How to run this program
 git clone git@github.com:MichaelT-178/MovieSearch.git
 ```
 
-
 **2. Change to the MovieSearch directory**
 ```
 cd MovieSearch
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **3. Run the application using the python file**
