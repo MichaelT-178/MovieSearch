@@ -3,19 +3,19 @@
 How to run this program 
 
 
-1. Clone the repo 
+**1. Clone the repo**
 ```
 git clone git@github.com:MichaelT-178/MovieSearch.git
 ```
 
 
-2. Change to the MovieSearch directory 
+**2. Change to the MovieSearch directory**
 ```
 cd MovieSearch
 ```
 
 
-3. Run the application using the python file
+**3. Run the application using the python file**
 ```
 python3 run_program.py
 ```
