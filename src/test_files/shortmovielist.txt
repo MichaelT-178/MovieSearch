@@ -1,0 +1,11 @@
+Title	Year	Length(min)	genres
+2001: A Space Odyssey	1968	149	Adventure,Sci-Fi
+$1000 a Touchdown	1939	71	Comedy,Sport
+Brave New Land	2000	104	Drama,War
+Braveheart	1995	178	Biography,Drama,History
+Jaws	1975	124	Adventure,Drama,Thriller
+Life in a Metro	2007	132	Comedy,Drama,Romance
+Life, Death and Mini-Golf	2004	115	Comedy,Drama
+Running Wild	1992	94	Documentary
+The Other Side of Midnight	1977	165	Drama,Romance,Thriller
+The Other Side of the Tracks	2008	92	Drama,Fantasy,Mystery
