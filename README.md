@@ -22,5 +22,5 @@ cd MovieSearch
 python3 run_program.py
 ```
 
-**Note:** I took inspiration from the [MovieList](https://github.com/MichaelT-178/MovieSearch/blob/main/src/MovieList.java) class in this project and used similar 
-logic for the [ApartmentList](https://github.com/MichaelT-178/ApartmentRegistry/blob/main/src/ApartmentList.java) class in my ApartmentRegistry project. I also took influence from this project for the GUI design.
+**Note:** I took inspiration from the [MovieList](https://github.com/MichaelT-178/MovieSearch/blob/main/src/MovieList.java) class in this project and implemented similar
+logic for the [ApartmentList](https://github.com/MichaelT-178/ApartmentRegistry/blob/main/src/ApartmentList.java) class in my ApartmentRegistry application. I also took influence from this project for the GUI design.
