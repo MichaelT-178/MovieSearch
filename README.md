@@ -1,4 +1,8 @@
 # MovieSearch
+## <u>[Youtube Video Demo](https://youtu.be/59DaUBc8jeM?si=pWFo1a1YBA5wndXN)</u>
+
+This is a simple Java Swing application to search through a list of movies based 
+on various criteria. It was developed by myself and Logan Williams.
 
 How to run this program 
 
@@ -19,4 +23,4 @@ python3 run_program.py
 ```
 
 **Note:** I took inspiration from the [MovieList](https://github.com/MichaelT-178/MovieSearch/blob/main/src/MovieList.java) class in this project and used similar 
-logic for the [ApartmentList](https://github.com/MichaelT-178/ApartmentRegistry/blob/main/src/ApartmentList.java) class in my ApartmentRegistry project.
+logic for the [ApartmentList](https://github.com/MichaelT-178/ApartmentRegistry/blob/main/src/ApartmentList.java) class in my ApartmentRegistry project. I also took influence from this project for the GUI design.
