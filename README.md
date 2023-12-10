@@ -2,7 +2,8 @@
 ## <u>[Youtube Video Demo](https://youtu.be/59DaUBc8jeM?si=pWFo1a1YBA5wndXN)</u>
 
 This is a simple Java Swing application to search through a list of movies based 
-on various criteria. It was developed by myself and Logan Williams.
+on various criteria. It was developed by myself and Logan Williams back in fall 2021
+when I first started learning Java.
 
 How to run this program 
 
