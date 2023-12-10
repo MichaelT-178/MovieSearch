@@ -3,7 +3,7 @@
 
 This is a simple Java Swing application to search through a list of movies based 
 on various criteria. It was developed by myself and Logan Williams back in fall 2021
-when I first started learning Java.
+when I first started learning Java. We recieved a 100 on this project.
 
 How to run this program 
 
