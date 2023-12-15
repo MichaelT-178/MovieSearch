@@ -3,8 +3,6 @@
 //java -cp bin MovieSearch test_files/shortmovielist.txt
 //java -cp bin MovieSearch test_files/movies.txt
 
-///Users/michaeltotaro/OldCompSci/ncsu/CSC116/projects/csc116-601-CE-04/CE
-
 import java.util.*;
 import java.io.*;
 
