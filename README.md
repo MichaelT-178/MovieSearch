@@ -1,5 +1,5 @@
 # MovieSearch
-## <u>[Youtube Video Demo](https://youtu.be/zNmHXOQN9qs?si=-Qd33iWEqJq7lEYx)</u>
+## <u>[Youtube Video Demo](https://youtu.be/zNmHXOQN9qs?si=LJx61OYFmOWyqD_J)</u>
 
 This is a simple Java Swing application to search through a list of movies based 
 on various criteria. It was developed by myself and Logan Williams back in fall 2021
